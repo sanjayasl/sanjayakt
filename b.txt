@@ -1,1 +1,2 @@
 feature changes new file b
+changes from feature branch to b
